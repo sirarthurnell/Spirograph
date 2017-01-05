@@ -1,0 +1,9 @@
+.canvasWrapper{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -300px;
+	border: 1px solid gray;
+	z-index: 1;
+}
