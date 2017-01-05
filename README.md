@@ -1,2 +1,2 @@
 # Spirograph
-An small spirograph implementation in Javascript.
+A small spirograph implementation in Javascript.
